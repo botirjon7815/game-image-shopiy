@@ -1,7 +1,6 @@
 export default function Footer() {
     return (
 
-    
         <div class="footer-dark">
         <footer>
             <div class="container">
